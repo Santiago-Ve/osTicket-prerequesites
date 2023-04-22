@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/dXI35O0.png alt="Traffic Examination"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 <br />
 <br />
